@@ -1,12 +1,12 @@
 Package: golubEsets
-Version: 1.4.4
+Version: 1.4.5
 Title: exprSets for golub leukemia data
 Author: Todd Golub <golub@wi.mit.edu>
 Maintainer: Vince Carey <stvjc@channing.harvard.edu>
 Description: representation of public golub data with some covariate
    data of provenance unknown to the maintainer at present; now
    employs ExpressionSet format
-biocViews: ExperimentData
+biocViews: ExperimentData, Cancer, Leukemia
 LazyLoad: true
 Depends: Biobase (>= 1.12.0)
 License: unknown
