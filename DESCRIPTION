@@ -8,6 +8,6 @@ Description: representation of public golub data with some covariate
    employs ExpressionSet format
 biocViews: ExperimentData, Cancer, Leukemia
 LazyLoad: true
-Depends: Biobase (>= 2.5.5)
+Depends: R (>= 2.14.0), Biobase (>= 2.5.5)
 License: LGPL
 ZipData: No
