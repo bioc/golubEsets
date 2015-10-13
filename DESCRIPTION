@@ -1,5 +1,5 @@
 Package: golubEsets
-Version: 1.11.0
+Version: 1.12.0
 Title: exprSets for golub leukemia data
 Author: Todd Golub <golub@wi.mit.edu>
 Maintainer: Vince Carey <stvjc@channing.harvard.edu>
